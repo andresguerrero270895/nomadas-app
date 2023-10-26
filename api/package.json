@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Aplicacion web de alquier de espacios para nomadas digitales ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresguerrero270895/nomadas-app.git"
+  },
+  "author": "Andres Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresguerrero270895/nomadas-app/issues"
+  },
+  "homepage": "https://github.com/andresguerrero270895/nomadas-app#readme"
+}
