@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andresguerrero270895/nomadas-app/issues"
   },
-  "homepage": "https://github.com/andresguerrero270895/nomadas-app#readme"
+  "homepage": "https://github.com/andresguerrero270895/nomadas-app#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.9"
+  }
 }
